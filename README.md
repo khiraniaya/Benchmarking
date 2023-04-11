@@ -1,4 +1,3 @@
-# Benchmarking
 # **Benchmarking des algorithmes de régression**
 Le benchmarking en machine learning est un processus qui implique la comparaison de différentes méthodes d'apprentissage automatique sur un ensemble de données de test commun dont le but d'évaluer et de comparer les performances de différentes approches sur une tâche donnée.
 
