@@ -10,15 +10,15 @@ En ML, trois niveaux sont importants dans le processus d'analyse de données en 
 
 Pour commencer, nous allons suivre ces étapes :
 
-**1- Collecte et préparation des données :**
+**1- Collecte et préparation des données**
 
-**2- Entraînement des algorithmes de régression :**
+**2- Entraînement des algorithmes de régression**
 
-**3- Analyse et comparaison des performances :**
+**3- Analyse et comparaison des performances**
 
-**4- Explication et justification des résultats :**
+**4- Explication et justification des résultats**
 
-**5- Proposition d'améliorations :**
+**5- Proposition d'améliorations**
 
 
 Nous avons différents datasets sur lesquels nous allons travailler :
@@ -34,5 +34,4 @@ Nous avons différents datasets sur lesquels nous allons travailler :
 Pour chacun des datasets, j'ai généré un notebook dans lequel j'ai testé différents algorithmes.
 
 1.   [House prices](https://colab.research.google.com/drive/1dxqzHo3zznThuTnp7qflGIQCUc4WGYjN?usp=sharing)
-2.   [texte du lien](https://)
 
