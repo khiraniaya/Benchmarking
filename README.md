@@ -32,5 +32,5 @@ Nous avons différents datasets sur lesquels nous allons travailler :
 
 Pour chacun des datasets, j'ai généré un notebook dans lequel j'ai testé différents algorithmes.
 
-1.   [House prices](https://colab.research.google.com/drive/1dxqzHo3zznThuTnp7qflGIQCUc4WGYjN?usp=sharing)
+1.   [House prices](https://colab.research.google.com/drive/1_P9fqtHtY3eD9aHs0x-97Tj_KvzrPGKn?usp=sharing)
 
